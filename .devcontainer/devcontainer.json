@@ -1,0 +1,9 @@
+{
+  "name": "Decimal a Binario 8 bits",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
